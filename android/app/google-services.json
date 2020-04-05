@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "102226749149",
+    "firebase_url": "https://hotsong-56d73.firebaseio.com",
+    "project_id": "hotsong-56d73",
+    "storage_bucket": "hotsong-56d73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102226749149:android:d1276c166720256c445d34",
+        "android_client_info": {
+          "package_name": "com.example.hot_song"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102226749149-jb7gj117qgrbb4pcit88mjdkbi4hato6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbmFauldkliL3K6WttLL-7bxS4PQatKDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102226749149-jb7gj117qgrbb4pcit88mjdkbi4hato6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
